@@ -62,3 +62,12 @@ aside {
 .TitleComida {
     text-align: center;
 }
+.footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed; /* Fija el pie de página en la parte inferior */
+    width: 100%;
+    bottom: 0;
+}
